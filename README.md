@@ -1,10 +1,9 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  Evan Yue Zhang </h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Evan Yue Zhang </h1>
 
-<p align="center"> <i>Teaching artifical intelligent models to be intelligent :)</i> </p>
 
 ## **🚀 About Me**
 
-I am passionate about **Drive Growth by Data Science and AI**. My interests span ai for ecommerce, marketing, SEO, data science, AI agent.
+My interests span is ecommerce, marketing, SEO, and growth. I am passionate about **apply Data Science and AI** for ecommerce, marketing, SEO, and growth. 
 
 Outside of work, I love traveling to explore new countries and cultures.
 
@@ -13,8 +12,7 @@ Outside of work, I love traveling to explore new countries and cultures.
 ```yaml
 identity:
   origin: China 
-  nationality: France
-  tagline: Engineering the intelligence in AI & Automating with it
+  residence: Singapore (with PR)
   travel_into: [Singapore, Malaysia, Thailand, Cambodia, Japan, China, 
                France, Spain, Greece]
 
@@ -32,10 +30,13 @@ philosophy:
 
 ---
 
+## Projects
 🖼️ [Open Ecommerce](https://github.com/zhangyue325/open_ecommerce), [Its Website](openecommerce.app)
 
 🤖 [Shop Chat Agent](https://github.com/zhangyue325/shop-chat-agent)
 
+## Articles
+🔍 [Ecommerce SEO Thinking Framework: How Should We Decide What SEO Work Is Worth Doing in the AI Era?](https://medium.com/@zhangyue325/ecommerce-seo-thinking-framework-how-should-we-decide-what-seo-work-is-worth-doing-in-the-ai-era-b477b2f25781)
 
 
 <div align="center">
@@ -46,7 +47,7 @@ philosophy:
 
 ## **🤗 Looking forward to...**
 
-I'm always excited to take on new challenges in data science and applied AI. If you have an oppotunity, an interesting project, an idea, or just want to discuss the latest in tech, let’s connect! I'm open to collaborations and geeking out about all things applied AI, especially for ecommerce and marketing:)
+I'm always excited to take on new challenges in data science and applied AI. If you have an oppotunity, an interesting project, an idea, or just want to discuss, let’s connect! 
 
 ## 
 
