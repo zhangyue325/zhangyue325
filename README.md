@@ -30,12 +30,12 @@ philosophy:
 
 ---
 
-## Projects
+## **🛠️ Projects**
 🖼️ [Open Ecommerce](https://github.com/zhangyue325/open_ecommerce), [Its Website](openecommerce.app)
 
 🤖 [Shop Chat Agent](https://github.com/zhangyue325/shop-chat-agent)
 
-## Articles
+## **📝 Articles**
 🔍 [Ecommerce SEO Thinking Framework: How Should We Decide What SEO Work Is Worth Doing in the AI Era?](https://medium.com/@zhangyue325/ecommerce-seo-thinking-framework-how-should-we-decide-what-seo-work-is-worth-doing-in-the-ai-era-b477b2f25781)
 
 
