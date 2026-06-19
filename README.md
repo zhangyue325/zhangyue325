@@ -13,8 +13,7 @@ Outside of work, I love traveling to explore new countries and cultures.
 identity:
   origin: China 
   residence: Singapore (with PR)
-  travel_into: [Singapore, Malaysia, Thailand, Cambodia, Japan, China, 
-               France, Spain, Greece]
+  travel_into: [Malaysia, Thailand, Cambodia, Indonesia, Japan, France, Spain, Greece]
 
 passions:
   culture: 🌍 Traveling & Exploring Cultures
