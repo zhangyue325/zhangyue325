@@ -28,7 +28,7 @@ philosophy:
 
 ---
 
-## **🛠️ Projects**
+## **🛠️ Hobby Projects**
 🖼️ [Open Ecommerce](https://github.com/zhangyue325/open_ecommerce), [Its Website](openecommerce.app)
 
 🤖 [Shop Chat Agent](https://github.com/zhangyue325/shop-chat-agent)
