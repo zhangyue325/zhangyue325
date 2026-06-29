@@ -19,7 +19,6 @@ passions:
   culture: 🌍 Traveling & Exploring Cultures
   sport: 🏸 Badminton
   love: ❤️ Wife Caring
-  gaming: 👹 Dota2
 
 philosophy:
   ego check: "Low ego, high impact."
